@@ -1,0 +1,24 @@
+{
+  "name": "react-pathevaluator",
+  "version": "1.0.0",
+  "description": "A communication and caching tool for React components inspired by Netflix's Falkor pattern.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maestroh/react-pathevaluator.git"
+  },
+  "keywords": [
+    "react",
+    "pathevaluator",
+    "rx"
+  ],
+  "author": "Nael Alismail",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maestroh/react-pathevaluator/issues"
+  },
+  "homepage": "https://github.com/maestroh/react-pathevaluator",
+  "dependencies": {
+    "rx": "^2.5.2"
+  }
+}
